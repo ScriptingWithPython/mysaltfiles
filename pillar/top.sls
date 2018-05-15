@@ -1,3 +1,3 @@
 master:
-  - '*':
-    - env_info
+ '*':
+   - env_info
