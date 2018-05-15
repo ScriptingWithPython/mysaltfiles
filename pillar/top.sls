@@ -1,3 +1,3 @@
 stage:
-  - '*':
+  '*':
     - env_info
