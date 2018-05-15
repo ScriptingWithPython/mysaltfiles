@@ -1,3 +1,3 @@
-stage:
+master:
   - '*':
     - env_info
