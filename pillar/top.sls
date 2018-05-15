@@ -1,0 +1,3 @@
+stage:
+  - '*':
+    - env_info
