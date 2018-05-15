@@ -1,3 +1,3 @@
 base:
-  - '*':
-      - env_info
+  '*':
+    - env_info
