@@ -1,1 +1,1 @@
-my_git_pillar_env: master
+my_git_pillar_env: base
