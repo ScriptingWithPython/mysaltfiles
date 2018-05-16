@@ -1,4 +1,4 @@
-# /srv/salt/test.sls
+# git states/test.sls
 show_pillar_value:
   test.configurable_test_state:
     - name: from pillar {{ pillar.name }}
