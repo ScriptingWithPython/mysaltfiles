@@ -1,3 +1,3 @@
-master:
+{{saltenv}}:
  '*':
    - env_info
