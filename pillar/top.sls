@@ -1,4 +1,4 @@
-{{saltenv}}:
+'stage':
   '*':
     - env_info
 
